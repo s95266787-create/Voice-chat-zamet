@@ -1,0 +1,6 @@
+{
+  "name": "Голосовые заметки",
+  "description": "Приложение для записи голосовых заметок и автоматического преобразования их в текст при помощи Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
